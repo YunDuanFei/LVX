@@ -1,0 +1,7 @@
+Lyapunov function:
+0.5341 * x1 ** 2 - 0.0485 * 2 * x1 * x2 + 5.7459 * x2 ** 2
+
+
+
+Lyapunov differentiate function:
+-x1 ** 2 - x2 ** 2
