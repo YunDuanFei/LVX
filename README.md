@@ -12,7 +12,7 @@ Schematics diagram of a microgrid-based distribution grid. The physical structur
 <img src="docs/fig1.png">
 </p>
 
-(a) Visualization of different NN approaches with rigorous δ falsification. (b) The ROA estimated by our method is significantly larger than the LQR.
+(a) Visualization of different NN approaches with rigorous δ falsification. (b) The ROA estimated by our method is significantly larger than the LQR. "SOS4" indicates that the highest order of the SOS-estimated Lyapunov function is a fourth-order polynomial.
 
 <p align="center">
 <img src="docs/fig2.png">
