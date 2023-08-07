@@ -21,7 +21,7 @@ Schematics diagram of a microgrid-based distribution grid. The physical structur
 
 ## Citation
 
-If you use this benchmark in your research, please cite this project.
+If you use this benchmark in your research, please cite this paper.
 
 ```
 @ARTICLE{10208158,
