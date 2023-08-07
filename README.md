@@ -19,7 +19,18 @@ Schematics diagram of a microgrid-based distribution grid. The physical structur
 </p>
 
 
+## Citation
 
+If you use this benchmark in your research, please cite this project.
+
+```
+@ARTICLE{10208158,
+  author={Liu, Yunfei and Zhang, Junran and Liu, Yan and Yang, Mengling and Chen, Song and Zhou, Lijun and Wang, Yang},
+  journal={IEEE Transactions on Smart Grid}, 
+  title={An Improved Neural Lyapunov Method for Transient Stability Assessment of Networked Microgrids}, 
+  year={2023},
+  doi={10.1109/TSG.2023.3301855}}
+```
 
 
 ## Contact Information
